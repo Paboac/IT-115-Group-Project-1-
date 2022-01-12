@@ -1,2 +1,1 @@
-# IT-115-Group-Project-1-
-IT:115 Group Project 1 
+This is the readme for our group project.
